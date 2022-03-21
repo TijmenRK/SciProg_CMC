@@ -4,3 +4,5 @@ Used as demonstration program in the book "Scientific Software Development in Fo
 Made available on github by Lucas Visscher for use in exercise classes of the 
 master course Scientific Computing and Programming (Amsterdam, 2022).
 Program can be compiled with gfortran using the supplied Makefile.
+
+Change of the README file at 21-3-2022
